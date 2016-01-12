@@ -6,6 +6,9 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.stream.IntStream;
 
+/*
+ * Can't remember what this was for...
+ */
 public class BabyPandaBathManager {
 	
 	public static void await(CyclicBarrier cb) {
